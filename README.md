@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Apasionado en aprender y entender cómo aplicar la ciencia de datos a problemas reales, sobretodo si son del tipo económico o financiero. 
+Apasionado en aprender y entender cómo aplicar la ciencia de datos a problemas reales, sobretodo si son del tipo económico y financiero. 
 
 ### Donde encontrarme
 - LinkedIn: www.linkedin.com/in/jesús-hipólito-rodríguez
