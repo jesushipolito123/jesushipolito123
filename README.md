@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 Apasionado en aprender y entender cómo aplicar la ciencia de datos a problemas reales, sobretodo si son del tipo económico y financiero. 
 
 ### Donde encontrarme
-- LinkedIn: www.linkedin.com/in/jesús-hipólito-rodríguez
-- Correo electronico: jesushipolito789@gmail.com
+- [LinkedIn](www.linkedin.com/in/jesús-hipólito-rodríguez)
+
+### Contacto
+Correo electronico: jesushipolito789@gmail.com
