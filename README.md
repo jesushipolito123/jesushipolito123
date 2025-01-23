@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola 👋
 
 <!--
 **jesushipolito123/jesushipolito123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Apasionado en aprender y entender cómo aplicar la estadistica a problemas reales, sobretodo si son del tipo económico o financiero. 
+
+### Donde encontrarme
+- LinkedIn: www.linkedin.com/in/jesús-hipólito-rodríguez
+- Correo electronico: jesushipolito789@gmail.com
